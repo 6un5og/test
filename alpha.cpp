@@ -11,6 +11,7 @@ struct AB
 	{
 		if(i == abc)
 			cout << "AA" << endl;
+		return;
 	}
 
 	void BB(int*& abc)
